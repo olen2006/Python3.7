@@ -1,0 +1,7 @@
+aws_access_key = "AKIAQJQHYM7GT7DLO7UN"
+aws_secret_key = "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"
+#private_key_path = "C:/DevOps/GitHub/Terraform_projects/_keys/key_us_west_2.pem"
+#bucket_name =   "blidchenko-web"
+##environment_tag =   "dev"
+#billing_code_tag    =   "ACCT2310202"
+accountId = "020417374157"
