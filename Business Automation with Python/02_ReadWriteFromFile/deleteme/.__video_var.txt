@@ -1,3 +1,0 @@
-*TV-Shows=331
-*Movies=331
-*transmission=331
