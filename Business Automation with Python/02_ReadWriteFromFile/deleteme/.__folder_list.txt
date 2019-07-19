@@ -1,4 +1,0 @@
-sh_num=3
-sh_name0=Movies
-sh_name1=transmission
-sh_name2=TV-Shows
