@@ -1,3 +1,0 @@
-*TV-Shows=111
-*Movies=111
-*transmission=111
